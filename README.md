@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Emmanuella Ndukwe-Obuikwu
-- 👀 I’m interested in the world of Augmented reality and programming, and how these technology innovations will help people in their daily lives and actions.
-- 🌱 I’m currently learning Python and Augmented Reality Development
-- 💞️ I’m looking to collaborate on Augmented Reality Development and Python, in building and testing of applications and experiences.
+- 👀 I’m interested in the world of Programming and Web development, and how these technology innovations will help people in their daily lives and actions.
+- 🌱 I’m currently learning Python, HTML and CSS
+- 💞️ I’m looking to collaborate on building web applications and data analysis.
 - 📫 How to reach me. You can reach me via email at emmandukwe26@gmail.com.
 
 <!---
